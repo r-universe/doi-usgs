@@ -8,3 +8,23 @@
 	url = https://github.com/doi-usgs/dataretrieval
 	shallow = true
 	registered = true
+[submodule "geoknife"]
+	path = geoknife
+	url = https://github.com/doi-usgs/geoknife
+	shallow = true
+	registered = true
+[submodule "ncdfgeom"]
+	path = ncdfgeom
+	url = https://github.com/doi-usgs/ncdfgeom
+	shallow = true
+	registered = true
+[submodule "nhdplusTools"]
+	path = nhdplusTools
+	url = https://github.com/doi-usgs/nhdplustools
+	shallow = true
+	registered = true
+[submodule "sbtools"]
+	path = sbtools
+	url = https://github.com/doi-usgs/sbtools
+	shallow = true
+	registered = true
