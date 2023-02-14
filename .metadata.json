@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "EGRET",
+    "oncran": true
+  },
+  {
     "package": "geoknife",
     "oncran": true
   },

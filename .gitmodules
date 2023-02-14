@@ -8,6 +8,11 @@
 	url = https://github.com/doi-usgs/dataretrieval
 	shallow = true
 	registered = true
+[submodule "EGRET"]
+	path = EGRET
+	url = https://github.com/doi-usgs/egret
+	shallow = true
+	registered = true
 [submodule "geoknife"]
 	path = geoknife
 	url = https://github.com/doi-usgs/geoknife
