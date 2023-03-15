@@ -1,5 +1,13 @@
 [
   {
+    "package": "dataRetrieval",
+    "oncran": true
+  },
+  {
+    "package": "EGRET",
+    "oncran": true
+  },
+  {
     "package": "geoknife",
     "oncran": true
   },
@@ -8,19 +16,11 @@
     "oncran": true
   },
   {
-    "package": "sbtools",
-    "oncran": true
-  },
-  {
     "package": "nhdplusTools",
     "oncran": true
   },
   {
-    "package": "dataRetrieval",
-    "oncran": true
-  },
-  {
-    "package": "EGRET",
+    "package": "sbtools",
     "oncran": true
   }
 ]

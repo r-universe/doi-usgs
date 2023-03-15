@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dataRetrieval"]
+	path = dataRetrieval
+	url = https://github.com/doi-usgs/dataretrieval
+	shallow = true
+	registered = true
+[submodule "EGRET"]
+	path = EGRET
+	url = https://github.com/doi-usgs/egret
+	shallow = true
+	registered = true
 [submodule "geoknife"]
 	path = geoknife
 	url = https://github.com/doi-usgs/geoknife
@@ -13,23 +23,13 @@
 	url = https://github.com/doi-usgs/ncdfgeom
 	shallow = true
 	registered = true
-[submodule "sbtools"]
-	path = sbtools
-	url = https://github.com/doi-usgs/sbtools
-	shallow = true
-	registered = true
 [submodule "nhdplusTools"]
 	path = nhdplusTools
 	url = https://github.com/doi-usgs/nhdplustools
 	shallow = true
 	registered = true
-[submodule "dataRetrieval"]
-	path = dataRetrieval
-	url = https://github.com/doi-usgs/dataretrieval
-	shallow = true
-	registered = true
-[submodule "EGRET"]
-	path = EGRET
-	url = https://github.com/doi-usgs/egret
+[submodule "sbtools"]
+	path = sbtools
+	url = https://github.com/doi-usgs/sbtools
 	shallow = true
 	registered = true
