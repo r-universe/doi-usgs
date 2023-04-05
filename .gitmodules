@@ -13,6 +13,11 @@
 	url = https://github.com/doi-usgs/egret
 	shallow = true
 	registered = true
+[submodule "EGRETci"]
+	path = EGRETci
+	url = https://github.com/doi-usgs/egretci
+	shallow = true
+	registered = true
 [submodule "geoknife"]
 	path = geoknife
 	url = https://github.com/doi-usgs/geoknife
