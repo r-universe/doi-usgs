@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dataRetrieval"]
 	path = dataRetrieval
 	url = https://github.com/doi-usgs/dataretrieval
-	shallow = true
-	registered = true
 [submodule "EGRET"]
 	path = EGRET
 	url = https://github.com/doi-usgs/egret
-	shallow = true
-	registered = true
 [submodule "EGRETci"]
 	path = EGRETci
 	url = https://github.com/doi-usgs/egretci
-	shallow = true
-	registered = true
 [submodule "geoknife"]
 	path = geoknife
 	url = https://github.com/doi-usgs/geoknife
-	shallow = true
-	registered = true
 [submodule "ncdfgeom"]
 	path = ncdfgeom
 	url = https://github.com/doi-usgs/ncdfgeom
-	shallow = true
-	registered = true
 [submodule "nhdplusTools"]
 	path = nhdplusTools
 	url = https://github.com/doi-usgs/nhdplustools
-	shallow = true
-	registered = true
 [submodule "sbtools"]
 	path = sbtools
 	url = https://github.com/doi-usgs/sbtools
-	shallow = true
-	registered = true
 [submodule "toxEval"]
 	path = toxEval
 	url = https://github.com/doi-usgs/toxeval
-	shallow = true
-	registered = true
