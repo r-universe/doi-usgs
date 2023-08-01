@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dataRetrieval"]
-	path = dataRetrieval
-	url = https://github.com/doi-usgs/dataretrieval
 [submodule "EGRET"]
 	path = EGRET
 	url = https://github.com/doi-usgs/egret
 [submodule "EGRETci"]
 	path = EGRETci
 	url = https://github.com/doi-usgs/egretci
+[submodule "dataRetrieval"]
+	path = dataRetrieval
+	url = https://github.com/doi-usgs/dataretrieval
 [submodule "geoknife"]
 	path = geoknife
 	url = https://github.com/doi-usgs/geoknife
