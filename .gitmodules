@@ -14,6 +14,9 @@
 [submodule "geoknife"]
 	path = geoknife
 	url = https://github.com/doi-usgs/geoknife
+[submodule "hydroloom"]
+	path = hydroloom
+	url = https://github.com/doi-usgs/hydroloom
 [submodule "ncdfgeom"]
 	path = ncdfgeom
 	url = https://github.com/doi-usgs/ncdfgeom
