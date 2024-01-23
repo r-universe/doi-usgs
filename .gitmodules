@@ -11,9 +11,6 @@
 [submodule "dataRetrieval"]
 	path = dataRetrieval
 	url = https://github.com/doi-usgs/dataretrieval
-[submodule "geoknife"]
-	path = geoknife
-	url = https://github.com/doi-usgs/geoknife
 [submodule "hydroloom"]
 	path = hydroloom
 	url = https://github.com/doi-usgs/hydroloom
