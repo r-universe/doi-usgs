@@ -1,8 +1,0 @@
-[
-  {
-    "package": "nhdplusTools",
-    "url": "https://github.com/DOI-USGS/nhdplusTools",
-    "via": ["hydroloom"],
-    "from": "hydroloom"
-  }
-]
