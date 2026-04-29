@@ -14,6 +14,9 @@
 [submodule "hydroloom"]
 	path = hydroloom
 	url = https://github.com/doi-usgs/hydroloom
+[submodule "mortar"]
+	path = mortar
+	url = https://github.com/doi-usgs/mortar
 [submodule "ncdfgeom"]
 	path = ncdfgeom
 	url = https://github.com/doi-usgs/ncdfgeom
