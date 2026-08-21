@@ -11,6 +11,9 @@
 [submodule "dataRetrieval"]
 	path = dataRetrieval
 	url = https://github.com/doi-usgs/dataretrieval
+[submodule "hydrogeofetch"]
+	path = hydrogeofetch
+	url = https://github.com/doi-usgs/nhdplustools
 [submodule "hydroloom"]
 	path = hydroloom
 	url = https://github.com/doi-usgs/hydroloom
